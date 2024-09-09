@@ -46,6 +46,7 @@ Install Dependencies: Ensure you have Python and the required packages installed
 ```
 
 Dependencies
+```
 Python 3.x
 IPython
 Elasticsearch
@@ -53,4 +54,5 @@ Google Colab
 Anaconda
 Faiss (for advanced mathematical operations)
 R (if you are utilizing R magic within Python)
+```
 These dependencies are typically managed by Google Colab, but they may need to be installed manually if running the notebook locally.
