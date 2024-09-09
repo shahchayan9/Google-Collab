@@ -37,7 +37,7 @@ Installation
 To run this project, no installation is required if using Google Colab. Simply open the notebook in Colab and start running the cells. For running the notebook locally:
 
 Clone the repository:
-'''
+'''python
 bash
 Copy code
 git clone https://github.com/your-username/your-project.git
